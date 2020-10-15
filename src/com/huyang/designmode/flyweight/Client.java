@@ -27,6 +27,7 @@ public class Client {
         blackChess3.display(new Coordinates(1,3));
         whiteChess1.display(new Coordinates(2,5));
         whiteChess2.display(new Coordinates(2,4));
+        System.out.println("dev");
     }
 }
     
