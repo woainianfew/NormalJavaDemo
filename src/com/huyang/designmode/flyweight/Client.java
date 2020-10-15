@@ -29,6 +29,7 @@ public class Client {
         whiteChess2.display(new Coordinates(2,4));
         System.out.println("dev");
         System.out.println("第一种冲突：提交时冲突--修改了的这段代码我远程拉下来的不一致，造成冲突");
+        System.out.println("第一种冲突：提交时冲突--直接在远程修改了，造成冲突，模拟别人修改了");
     }
 }
-    
+
