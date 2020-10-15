@@ -28,6 +28,7 @@ public class Client {
         whiteChess1.display(new Coordinates(2,5));
         whiteChess2.display(new Coordinates(2,4));
         System.out.println("dev");
+        System.out.println("在master做修改，测试在dev的冲突");
     }
 }
     
