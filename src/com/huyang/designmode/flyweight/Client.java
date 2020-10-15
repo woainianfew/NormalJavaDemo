@@ -28,7 +28,7 @@ public class Client {
         whiteChess1.display(new Coordinates(2,5));
         whiteChess2.display(new Coordinates(2,4));
         System.out.println("dev");
-        System.out.println("第一种冲突：提交时冲突--修改了同一块代码，造成冲突");
+        System.out.println("第一种冲突：提交时冲突--直接在远程修改了，造成冲突，模拟别人修改了");
     }
 }
     
