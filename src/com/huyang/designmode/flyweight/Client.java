@@ -30,6 +30,7 @@ public class Client {
         System.out.println("dev");
         System.out.println("在master做修改，测试在dev的冲突");
         System.out.println("这块冲突了->");
+        System.out.println("在dev上开发。。。");
     }
 }
     
